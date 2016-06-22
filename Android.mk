@@ -210,6 +210,7 @@ vg_local_src_files := \
 	coregrind/m_debuginfo/readmacho.c \
 	coregrind/m_debuginfo/readpdb.c \
 	coregrind/m_debuginfo/storage.c \
+        coregrind/m_debuginfo/tinfl.c \
 	coregrind/m_debuginfo/tytypes.c \
 	coregrind/m_deduppoolalloc.c \
 	coregrind/m_demangle/cp-demangle.c \
